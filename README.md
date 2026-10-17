@@ -5,7 +5,7 @@
 # hi, welcome! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="36" valign="middle" alt="waving pikachu" />
 
 **Kam (Kamil Niewiarowski)**  
-*MSc CS (ML & AI) @ WI AGH • Computational Linguistics & SLA*
+*MSc Student • CS (ML & AI) @ WI AGH • Computational Linguistics & SLA*
 
 [![Website](https://img.shields.io/badge/kniew.pl-18181b?style=flat-square&logo=firefox)](https://www.kniew.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-niewiarowski)
