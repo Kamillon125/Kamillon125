@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Header banner" />
 
-# hi, welcome! <img src="https://media1.tenor.com/m/5o4BgQAtHDcAAAAd/pikachu-pokemon.gif" width="34" valign="middle" alt="waving pikachu" />
+# hi, welcome! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="34" valign="middle" alt="waving pikachu" />
 
 **Kam (Kamil Niewiarowski)**  
 *MSc CS (ML & AI) @ WI AGH • Computational Linguistics & SLA*
