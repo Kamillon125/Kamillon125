@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Header banner" />
 
-# hi, welcome! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="34" valign="middle" alt="waving pikachu" />
+# hi, welcome! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="36" valign="middle" alt="waving pikachu" />
 
 **Kam (Kamil Niewiarowski)**  
 *MSc CS (ML & AI) @ WI AGH • Computational Linguistics & SLA*
@@ -17,13 +17,14 @@
 
 ### about (me!)
 
-I love learning how people acquire foreign languages through interactive media, using NLP and corpus linguistics to measure comprehensible input.
+I love learning how people acquire foreign languages through interactive media - and honestly, I love interacting w/ different people in general. 
 
 -  **What I'm up to:** Trying to survive my MSc in Machine Learning & AI @ AGH University of Krakow
 -  **My background:** B.A. in Social Informatics, Game Studies research club, quant & qual research methods
 -  **What I like:** Second Language Acquisition (SLA), specifically in interactive media, and even more specifically in video games
 -  **Desktop:** Big fan of tiling window managers and cozy workflows - currently running *swayfx* on *NixOS*
 -  **My party trick:** I can type at around *~200 WPM*, very neat but not that useful, my brain is way slower than that 😭
+-  **My regret is...** setting up `Kamillon125` as my github username when I was 15, like what was I thinking 😔
 
 ---
 
