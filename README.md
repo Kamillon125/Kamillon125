@@ -23,7 +23,7 @@ I love learning how people acquire foreign languages through interactive media -
 -  **My background:** B.A. in Social Informatics, Game Studies research club, quant & qual research methods
 -  **What I like:** Second Language Acquisition (SLA), specifically in interactive media, and even more specifically in video games
 -  **Desktop:** Big fan of tiling window managers and cozy workflows - currently running *swayfx* on *NixOS*
--  **My party trick:** I can type at around *~200 WPM* (used to be top 30😊), very neat but not too useful, my brain is way slower than that 😭
+-  **My party trick:** I can type at around *200 WPM* (used to be top 30😊), very neat but not too useful, my brain is way slower than that 😭
 -  **My regret is...** setting up `Kamillon125` as my github username when I was 15, like what was I thinking 😔
 
 ---
