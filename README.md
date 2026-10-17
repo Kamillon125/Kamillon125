@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Header banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Header banner" />
 
 # hi, welcome! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="36" valign="middle" alt="waving pikachu" />
 
@@ -39,7 +39,7 @@ I love learning how people acquire foreign languages through interactive media -
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Footer banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Footer banner" />
 
 <sub>thank u for stopping by! ♡</sub>
 
