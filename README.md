@@ -7,9 +7,9 @@
 **Kam (Kamil Niewiarowski)**  
 *MSc Student • CS (ML & AI) @ WI AGH • Computational Linguistics & SLA*
 
-[![Website](https://img.shields.io/badge/Website-cba6f7?style=flat-square&logo=firefox&logoColor=18181b)](https://kamilniewiarowski.pl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-93c5fd?style=flat-square&logo=linkedin&logoColor=18181b)](https://linkedin.com/in/kamil-niewiarowski)
-[![Discord](https://img.shields.io/badge/Discord-%40kamrl-e2e8f0?style=flat-square&logo=discord&logoColor=18181b)](https://discord.com)
+[![Website](https://img.shields.io/badge/Website-18181b?style=flat-square&logo=firefox)](https://kamilniewiarowski.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-niewiarowski)
+[![Discord](https://img.shields.io/badge/Discord-%40kamrl-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
